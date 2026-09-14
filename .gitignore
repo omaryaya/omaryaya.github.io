@@ -5,5 +5,10 @@ Gemfile.lock
 *.gem
 .vscode
 .jekyll-cache
+.jekyll-metadata
 #run.sh
 *.DS_Store
+.env
+.env.*
+.netlify
+secrets.*

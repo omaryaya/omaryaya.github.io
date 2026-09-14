@@ -66,12 +66,15 @@
     "url": "https://github.com/omaryaya/omaryaya.github.io"
   },
   "dependencies": {
+    "@netlify/blobs": "^8.0.0",
     "bootstrap": "4.6.0",
     "font-awesome": "4.7.0",
     "jquery": "3.6.0",
-    "startbootstrap-clean-blog": "5.1.0"
+    "startbootstrap-clean-blog": "5.1.0",
+    "stripe": "^17.0.0"
   },
   "devDependencies": {
+    "@types/node": "^20.0.0",
     "browser-sync": "^2.29.3"
   }
 }
